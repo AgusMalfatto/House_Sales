@@ -6,7 +6,7 @@ A Data Science project, to clean, analyse, and develop a machine learning algori
 
 * Code editor (I use Visual Studio Code).
 * Python > 3.10
-* Download the dataset from the next link: **[DATASET]** (https://www.kaggle.com/datasets/juhibhojani/house-price)
+* Download the dataset from the next link: **[HOUSE PRICES DATASET](https://www.kaggle.com/datasets/juhibhojani/house-price)**
 * Save the dataset in the foled 'input' and make sure its name is "house_prices.csv'
 
 
